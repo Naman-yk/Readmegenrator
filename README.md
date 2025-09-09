@@ -30,6 +30,12 @@ GitHub REST API (@octokit/rest)
 
 Google Gemini API (@google/generative-ai)
 
+Installation guide 
+/npm install express @octokit/rest node-fetch
+//npm install --save-dev typescript ts-node nodemon
+
+run this before starting in the root folder
+
 
 bytetask/
 ├── readmegen/
